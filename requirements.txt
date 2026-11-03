@@ -1,2 +1,4 @@
 streamlit
-pandas
+qrcode[pil]
+pillow
+extra-streamlit-components
